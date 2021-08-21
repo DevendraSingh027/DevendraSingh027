@@ -3,7 +3,8 @@
 
 ### I am a 2nd year under-grad from AICE, Jaipur.
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=deskofnia" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deskofnia&theme=algolia&show_icons=true)
+
 
 #### Tech Stacks -
 ###### Learning
