@@ -13,6 +13,7 @@
 ![Visual Code Studio](https://img.shields.io/badge/VSC-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Sublime](https://img.shields.io/badge/sublime-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ###### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -21,6 +22,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)
 ###### Programming and Coding
+[<img src="https://img.shields.io/badge/-GeeksforGeeks-FFFFFF?style=for-the-badge&logo=GeeksforGeeks&logoColor=black" />]
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/deskofnia)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/deskofnia)
 
