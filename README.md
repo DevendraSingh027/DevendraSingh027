@@ -5,6 +5,9 @@
 
 
 #### Tech Stacks -
+###### Learning
+![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ###### Tools & Frameworks
 ![Visual Code Studio](https://img.shields.io/badge/VSC-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Sublime](https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
