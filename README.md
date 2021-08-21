@@ -22,7 +22,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)
 ###### Programming and Coding
-[<img src="https://img.shields.io/badge/-GeeksforGeeks-FFFFFF?style=for-the-badge&logo=GeeksforGeeks&logoColor=black" />](https://auth.geeksforgeeks.org/user/deven027/profile)
+[<img src="https://img.shields.io/badge/-GeeksforGeeks-E5E5E5?style=for-the-badge&logo=GeeksforGeeks&logoColor=black" />](https://auth.geeksforgeeks.org/user/deven027/profile)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/deskofnia)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/deskofnia)
 
