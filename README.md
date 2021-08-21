@@ -3,6 +3,7 @@
 
 ### I am a 2nd year under-grad from AICE, Jaipur.
 
+[<img src="https://github-readme-stats.vercel.app/api?username=deskofnia" />]
 
 #### Tech Stacks -
 ###### Learning
