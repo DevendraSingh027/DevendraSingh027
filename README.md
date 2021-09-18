@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I am Devendra
 
-### I am a 2nd year under-grad from AICE, Jaipur.
+### I am a 3rd year under-grad from AICE, Jaipur.
 ## Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deskofnia&theme=vision-friendly-dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deskofnia&theme=algolia&show_icons=true)
