@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Devendra</h1>
+<p align="left"> <a href="https://twitter.com/deskofnia" target="blank"><img src="https://img.shields.io/twitter/follow/deskofnia?logo=twitter&style=for-the-badge" alt="deskofnia" /></a> </p>
 <h3 align="center">A passionate MERN Stack developer from Jaipur</h3>
 
 - 🌱 I’m currently learning **FastAPI, Django, Flask and Next.Js**
 
 - 💬 Ask me about **React, MongoDB, SQL**
-
-
-<p align="left"> <a href="https://twitter.com/deskofnia" target="blank"><img src="https://img.shields.io/twitter/follow/deskofnia?logo=twitter&style=for-the-badge" alt="deskofnia" /></a> </p>
 
 ## Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deskofnia&theme=vision-friendly-dark)
