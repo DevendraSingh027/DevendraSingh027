@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Devendra</h1>
 <h3 align="center">A passionate MERN Stack developer from Jaipur</h3>
 
+- 🌱 I’m currently learning **FastAPI, Django, Flask and Next.Js**
+
+- 💬 Ask me about **React, MongoDB, SQL**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deskofnia&label=Profile%20views&color=0e75b6&style=flat" alt="deskofnia" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deskofnia" target="blank"><img src="https://img.shields.io/twitter/follow/deskofnia?logo=twitter&style=for-the-badge" alt="deskofnia" /></a> </p>
@@ -35,10 +39,6 @@
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devendra-singh-rathod)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_dv_rajput_)
-
-- 🌱 I’m currently learning **FastAPI, Django, Flask and Next.Js**
-
-- 💬 Ask me about **React, MongoDB, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
