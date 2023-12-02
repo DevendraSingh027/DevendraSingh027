@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **React, MongoDB, SQL**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deskofnia&label=Profile%20views&color=0e75b6&style=flat" alt="deskofnia" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deskofnia" target="blank"><img src="https://img.shields.io/twitter/follow/deskofnia?logo=twitter&style=for-the-badge" alt="deskofnia" /></a> </p>
 
