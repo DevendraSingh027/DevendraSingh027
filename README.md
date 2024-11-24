@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dv<h1>
 <h3 align="center">A passionate MERN Stack developer from Jaipur</h3>
 
-- 🌱 I’m currently learning **FastAPI, React Native and Next.Js**
+- 🌱 I’m currently learning **FastAPI and Next.Js**
 
-- 💬 Ask me about **React, MongoDB, SQL**
+- 💬 Ask me about **React, React Native, MongoDB, SQL**
 
 
 ###### Programming and Coding
